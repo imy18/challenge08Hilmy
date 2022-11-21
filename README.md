@@ -23,6 +23,5 @@ ESLint
 # START PROJECT
 - yarn test (unit testing).
 - yarn lint (menampilkan kesalahan penulisan kode/ tidak sesuai standard).
-- yarn lint-fix (memperbaiki secara otomatis kesalahan penulisan kode/ tidak sesuai standard).
 
 # FOLDER UNIT TESTING ADA DI DALAM FOLDER APP (__test__).
